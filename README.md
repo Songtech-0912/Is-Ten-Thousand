@@ -2,6 +2,8 @@
 
 My mockery of the is-ten-thousand npm module - so that python always gets the last laugh :)
 
+> Please don't get too angry, I only mean this as a joke to JS devs. And I am one myself.
+
 ## Usage
 
 Is-Ten-Thousand is so simple, even a wonky JavaScript developer can use it:
